@@ -1,0 +1,45 @@
+@media (max-width:767px){
+
+.img{
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+}
+.img p{ width: 156px; margin-top: 25px;
+     align-items: center;
+     text-align: center; padding: 10px;
+      margin-left: 7px; transition:0.4s ; -webkit-transition:0.4s ; -moz-transition:0.4s ; -ms-transition:0.4s ; -o-transition:0.4s ;
+    font-size: 1.2em;
+}
+.img p:hover{
+
+background-color: black;
+margin-bottom: 5px;
+
+}
+.parent h2{
+text-align: center;
+margin-top: 15px;
+font-size: 30px;
+border-bottom: 1px double rgb(168, 168, 168);
+}
+.parent_titel{
+width: 120px;
+text-align: center;
+margin-top: 20px;
+display: flex;
+align-items: center;
+font-size: 1.2em;
+}
+
+}
+
+
+
+
+
+
+
+
+
